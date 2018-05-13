@@ -1,0 +1,23 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.c-border-bottom {
+	border-bottom: 1px solid #e5e5e5;
+}
+
+.c-shadow-bottom {
+	box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.05);
+}
+
+.c-lh-40 {
+	line-height: 40px;
+}
+
+.c-list-title {
+	text-align: center;
+}
